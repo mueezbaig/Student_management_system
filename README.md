@@ -79,7 +79,7 @@ The ER diagram represents the data model and relationships within the system.
 
 ## Snapshots
 
-![Homepage](./)
+![Homepage](https://github.com/mueezbaig/Student_management_system/blob/main/Images/home%20page.png)
 
 
 
