@@ -42,7 +42,7 @@ The system follows a client-server architecture with a web-based frontend and a 
 ## Entity-Relationship Diagram
 The ER diagram represents the data model and relationships within the system.
 
-![ER Diagram](./Images/System%20architecture.jpg)
+![ER Diagram](./Images/er%20diagram.jpg)
 
 ## Installation
 1. **Clone the repository:**
@@ -79,7 +79,7 @@ The ER diagram represents the data model and relationships within the system.
 
 ## Snapshots
 
-![Homepage]()
+![Homepage](./)
 
 
 
